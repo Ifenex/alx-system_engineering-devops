@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "x.2f" $NUM
+echo "x.2f" NUM
